@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "variant=default": { "model": "questitems:rail_tie_double" }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures":
+  {
+    "bottom": "questitems:blocks/resource_tie",
+    "top": "questitems:blocks/resource_tie",
+    "side": "questitems:blocks/resource_tie"
+  }
+}

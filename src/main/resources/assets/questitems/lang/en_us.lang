@@ -1,0 +1,27 @@
+# items
+item.test_item.name=Resource - Testing item
+item.resource_brick.name=Resource - Bricks
+item.resource_cake.name=Resource - Baked Goods
+item.resource_clay_ball.name=Resource - Clay
+item.resource_coal.name=Resource - Coal
+item.resource_iron_axe.name=Resource - Iron Axe
+item.resource_iron_ingot.name=Resource - Iron Ingot
+item.resource_iron_pickaxe.name=Resource - Pickaxe
+item.resource_iron_shovel.name=Resource - Shovel
+item.resource_steel_ingot.name=Resource - Steel Ingot
+item.resource_coffee_beans.name=Resource - Coffee Beans
+# Creative Tab
+itemGroup.customtab=Custom Quest Items
+
+
+# fluids
+fluid.test_fluid=test fluid
+fluid.resource_oil=Resource - Oil
+fluid.resource_fuel= Resource - Fuel
+fluid.resource_milk=Resource - Milk
+fluid.resource_alcohol=Resource - Alcohol
+
+# blocks
+tile.rail_tie_half.name=Resource - Rail tie
+tile.rail_tie_double.name=Resource - THICC Rail tie
+tile.resource_ballast.name=Resource - ballast
