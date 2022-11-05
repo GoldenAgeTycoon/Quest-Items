@@ -7,4 +7,5 @@ public class CommonProxy {
     {
 
     }
+    public void registerStateMapper(){}
 }
