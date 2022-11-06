@@ -1,13 +1,11 @@
 package com.goldenagetycoon.questitems;
 
 
-import com.goldenagetycoon.questitems.init.ModItems;
+
 import com.goldenagetycoon.questitems.proxy.CommonProxy;
 import com.goldenagetycoon.questitems.tab.TabMenu;
 import com.goldenagetycoon.questitems.util.Reference;
 import com.goldenagetycoon.questitems.util.handlers.RegistryHandler;
-import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.ItemStack;
 import net.minecraftforge.fluids.FluidRegistry;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
