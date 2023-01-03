@@ -21,4 +21,24 @@ public class ModItems {
     public static final Item RESOURCE_STEEL_INGOT = new ItemBase("resource_steel_ingot" );
     public static final Item RESOURCE_COFFEE_BEANS = new ItemBase("resource_coffee_beans");
 
+    // Letters
+    public static final Item LETTER_ALARM = new ItemBase("letter_alarm");
+    public static final Item LETTER_BLANK = new ItemBase("letter_blank");
+    public static final Item LETTER_BLOODY = new ItemBase("letter_bloody");
+    public static final Item LETTER_CASH = new ItemBase("letter_cash");
+    public static final Item LETTER_CLOVER = new ItemBase("letter_clover");
+    public static final Item LETTER_DEATH = new ItemBase("letter_death");
+    public static final Item LETTER_EARTH = new ItemBase("letter_earth");
+    public static final Item LETTER_ENDER = new ItemBase("letter_ender");
+    public static final Item LETTER_FLAG = new ItemBase("letter_flag");
+    public static final Item LETTER_FOX = new ItemBase("letter_fox");
+    public static final Item LETTER_FROG = new ItemBase("letter_frog");
+    public static final Item LETTER_GHOST = new ItemBase("letter_ghost");
+    public static final Item LETTER_LOVE = new ItemBase("letter_love");
+    public static final Item LETTER_MODERN = new ItemBase("letter_modern");
+    public static final Item LETTER_MUSHROOM = new ItemBase("letter_mushroom");
+    public static final Item LETTER_PUMPKIN = new ItemBase("letter_pumpkin");
+    public static final Item LETTER_RAINBOW = new ItemBase("letter_rainbow");
+    public static final Item LETTER_STAR = new ItemBase("letter_star");
+    public static final Item LETTER_TRIDENT = new ItemBase("letter_trident");
 }

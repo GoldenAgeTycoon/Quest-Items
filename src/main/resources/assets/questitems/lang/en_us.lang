@@ -10,6 +10,26 @@ item.resource_iron_pickaxe.name=Resource - Pickaxe
 item.resource_iron_shovel.name=Resource - Shovel
 item.resource_steel_ingot.name=Resource - Steel Ingot
 item.resource_coffee_beans.name=Resource - Coffee Beans
+
+item.letter_alarm.name=Letter
+item.letter_blank.name=Letter
+item.letter_bloody.name=Letter
+item.letter_cash.name=Letter
+item.letter_clover.name=Letter
+item.letter_death.name=Letter
+item.letter_earth.name=Letter
+item.letter_ender.name=Letter
+item.letter_flag.name=Letter
+item.letter_fox.name=Letter
+item.letter_frog.name=Letter
+item.letter_ghost.name=Letter
+item.letter_love.name=Letter
+item.letter_modern.name=Letter
+item.letter_mushroom.name=Letter
+item.letter_pumpkin.name=Letter
+item.letter_rainbow.name=Letter
+item.letter_star.name=Letter
+item.letter_trident.name=Letter
 # Creative Tab
 itemGroup.customtab=Custom Quest Items
 
