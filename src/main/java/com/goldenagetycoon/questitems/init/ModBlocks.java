@@ -18,6 +18,12 @@ public class ModBlocks {
     // Blocks
     public static final Block BALLAST = new BlockBase("resource_ballast", Material.ROCK);
 
+    public static final Block RESOURCE_LOG_MAHOGANY = new BlockBase("resource_log_mahogany", Material.WOOD);
+
+    public static final Block RESOURCE_LOG_OAK = new BlockBase("resource_log_oak", Material.WOOD);
+
+    public static final Block RESOURCE_LIMESTONE = new BlockBase("resource_limestone", Material.ROCK);
+
 
     //Slabs
     public static final BlockSlab RAIL_TIE_DOUBLE = new BlockSlabDoubleBase("rail_tie_double", Material.WOOD, ModBlocks.RAIL_TIE_HALF);

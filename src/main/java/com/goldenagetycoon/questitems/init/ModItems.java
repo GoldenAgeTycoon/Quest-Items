@@ -19,8 +19,10 @@ public class ModItems {
     public static final Item RESOURCE_IRON_PICKAXE = new ItemBase("resource_iron_pickaxe" );
     public static final Item RESOURCE_IRON_SHOVEL = new ItemBase("resource_iron_shovel" );
     public static final Item RESOURCE_STEEL_INGOT = new ItemBase("resource_steel_ingot" );
+    public static final Item RESOURCE_UNTEMPERED_INGOT = new ItemBase("resource_untempered_ingot" );
     public static final Item RESOURCE_COFFEE_BEANS = new ItemBase("resource_coffee_beans");
-
+    public static final Item RESOURCE_LIMESTONE_DUST = new ItemBase("resource_limestone_dust");
+    public static final Item RESOURCE_COALCOKE = new ItemBase("resource_coalcoke");
     // Letters
     public static final Item LETTER_ALARM = new ItemBase("letter_alarm");
     public static final Item LETTER_BLANK = new ItemBase("letter_blank");

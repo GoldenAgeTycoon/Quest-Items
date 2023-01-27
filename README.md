@@ -6,4 +6,4 @@ Image of all added items: <br>
 ![](https://cdn.discordapp.com/attachments/1026125914964234250/1059690818144829470/image.png)
 
 **Credits:** <br>
-Letter textures: https://www.9minecraft.net/books-to-letters-resource-pack/
+Letter textures: https://www.planetminecraft.com/texture-pack/books-to-letters/

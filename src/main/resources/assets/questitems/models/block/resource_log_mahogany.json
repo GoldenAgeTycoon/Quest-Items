@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "up": "questitems:blocks/resource_log_mahogany_top",
+    "down": "questitems:blocks/resource_log_mahogany_top",
+    "north": "questitems:blocks/resource_log_mahogany",
+    "south": "questitems:blocks/resource_log_mahogany",
+    "east": "questitems:blocks/resource_log_mahogany",
+    "west": "questitems:blocks/resource_log_mahogany"
+
+  }
+}
