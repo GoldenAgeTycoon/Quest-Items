@@ -1,10 +1,10 @@
-package com.goldenagetycoon.questitems.util.handlers;
+package com.goldenagetycoon.economyItems.util.handlers;
 
-import com.goldenagetycoon.questitems.QuestItems;
-import com.goldenagetycoon.questitems.init.ModBlocks;
-import com.goldenagetycoon.questitems.init.ModFluids;
-import com.goldenagetycoon.questitems.init.ModItems;
-import com.goldenagetycoon.questitems.util.IHasModel;
+import com.goldenagetycoon.economyItems.EconomyItems;
+import com.goldenagetycoon.economyItems.init.ModBlocks;
+import com.goldenagetycoon.economyItems.init.ModFluids;
+import com.goldenagetycoon.economyItems.init.ModItems;
+import com.goldenagetycoon.economyItems.util.IHasModel;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
@@ -27,7 +27,7 @@ public class RegistryHandler
     public static void onBlockRegister(RegistryEvent.Register<Block> event)
     {
         event.getRegistry().registerAll(ModBlocks.BLOCKS.toArray(new Block[0]));
-        QuestItems.proxy.registerStateMapper();
+        EconomyItems.proxy.registerStateMapper();
     }
 
     @SubscribeEvent

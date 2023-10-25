@@ -1,4 +1,4 @@
-package com.goldenagetycoon.questitems.proxy;
+package com.goldenagetycoon.economyItems.proxy;
 
 import net.minecraft.item.Item;
 

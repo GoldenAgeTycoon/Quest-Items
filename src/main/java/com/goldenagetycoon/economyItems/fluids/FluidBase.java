@@ -1,4 +1,4 @@
-package com.goldenagetycoon.questitems.fluids;
+package com.goldenagetycoon.economyItems.fluids;
 
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.fluids.Fluid;

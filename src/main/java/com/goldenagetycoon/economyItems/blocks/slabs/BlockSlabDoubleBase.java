@@ -1,4 +1,4 @@
-package com.goldenagetycoon.questitems.blocks.slabs;
+package com.goldenagetycoon.economyItems.blocks.slabs;
 
 import net.minecraft.block.BlockSlab;
 import net.minecraft.block.material.Material;

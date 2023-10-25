@@ -1,6 +1,6 @@
-package com.goldenagetycoon.questitems.util.handlers;
+package com.goldenagetycoon.economyItems.util.handlers;
 
-import com.goldenagetycoon.questitems.init.ModBlocks;
+import com.goldenagetycoon.economyItems.init.ModBlocks;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.client.renderer.block.statemap.StateMapperBase;
@@ -14,7 +14,7 @@ public class RenderHandler {
             @Override
             protected ModelResourceLocation getModelResourceLocation(IBlockState state)
             {
-                return new ModelResourceLocation("questitems:test_fluid", "fluid");
+                return new ModelResourceLocation("economyitems:test_fluid", "fluid");
             }
         });
         ModelLoader.setCustomStateMapper(ModBlocks.RESOURCE_OIL_BLOCK, new StateMapperBase()
@@ -22,7 +22,7 @@ public class RenderHandler {
             @Override
             protected ModelResourceLocation getModelResourceLocation(IBlockState state)
             {
-                return new ModelResourceLocation("questitems:resource_oil", "fluid");
+                return new ModelResourceLocation("economyitems:resource_oil", "fluid");
             }
         });
         ModelLoader.setCustomStateMapper(ModBlocks.RESOURCE_FUEL_BLOCK, new StateMapperBase()
@@ -30,7 +30,7 @@ public class RenderHandler {
             @Override
             protected ModelResourceLocation getModelResourceLocation(IBlockState state)
             {
-                return new ModelResourceLocation("questitems:resource_fuel", "fluid");
+                return new ModelResourceLocation("economyitems:resource_fuel", "fluid");
             }
         });
 
@@ -39,7 +39,7 @@ public class RenderHandler {
             @Override
             protected ModelResourceLocation getModelResourceLocation(IBlockState state)
             {
-                return new ModelResourceLocation("questitems:resource_alcohol", "fluid");
+                return new ModelResourceLocation("economyitems:resource_alcohol", "fluid");
             }
         });
 
@@ -48,7 +48,7 @@ public class RenderHandler {
             @Override
             protected ModelResourceLocation getModelResourceLocation(IBlockState state)
             {
-                return new ModelResourceLocation("questitems:resource_milk", "fluid");
+                return new ModelResourceLocation("economyitems:resource_milk", "fluid");
             }
         });
     }

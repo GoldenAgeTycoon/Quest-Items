@@ -1,6 +1,6 @@
-package com.goldenagetycoon.questitems.init;
+package com.goldenagetycoon.economyItems.init;
 
-import com.goldenagetycoon.questitems.items.ItemBase;
+import com.goldenagetycoon.economyItems.items.ItemBase;
 import net.minecraft.item.Item;
 
 import java.util.ArrayList;
@@ -58,4 +58,7 @@ public class ModItems {
     public static final Item RESOURCE_POWER_TOOLS = new ItemBase("resource_power_tools");
     public static final Item RESOURCE_SCAFFOLDING = new ItemBase("resource_scaffolding");
     public static final Item RESOURCE_WHEAT = new ItemBase("resource_wheat");
+
+    //token
+    public static final Item STARTING_TOKEN = new ItemBase("starting_token");
 }

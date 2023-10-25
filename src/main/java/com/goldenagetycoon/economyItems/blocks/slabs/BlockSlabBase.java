@@ -1,7 +1,7 @@
-package com.goldenagetycoon.questitems.blocks.slabs;
+package com.goldenagetycoon.economyItems.blocks.slabs;
 
-import com.goldenagetycoon.questitems.QuestItems;
-import com.goldenagetycoon.questitems.init.ModBlocks;
+import com.goldenagetycoon.economyItems.EconomyItems;
+import com.goldenagetycoon.economyItems.init.ModBlocks;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockSlab;
 import net.minecraft.block.material.Material;
@@ -26,7 +26,7 @@ public class BlockSlabBase extends BlockSlab {
         super(materialIn);
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(QuestItems.tab);
+        setCreativeTab(EconomyItems.tab);
         this.useNeighborBrightness = !this.isDouble();
 
         IBlockState state = this.blockState.getBaseState().withProperty(VARIANT, Variant.DEFAULT);

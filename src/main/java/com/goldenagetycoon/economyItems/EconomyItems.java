@@ -12,12 +12,12 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 
-@Mod(modid = QuestItems.MODID, name = QuestItems.NAME, version = QuestItems.VERSION)
-public class QuestItems
+@Mod(modid = EconomyItems.MODID, name = EconomyItems.NAME, version = EconomyItems.VERSION)
+public class EconomyItems
 {
-    public static final String MODID = "questitems";
-    public static final String NAME = "Quest Items";
-    public static final String VERSION = "1.4";
+    public static final String MODID = "economyitems";
+    public static final String NAME = "Economy Items";
+    public static final String VERSION = "1.5";
 
     @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.COMMON_PROXY_CLASS)
     public static CommonProxy proxy;

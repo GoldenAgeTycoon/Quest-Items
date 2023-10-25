@@ -1,4 +1,4 @@
-package com.goldenagetycoon.questitems.util;
+package com.goldenagetycoon.economyItems.util;
 
 public interface IHasModel
 {

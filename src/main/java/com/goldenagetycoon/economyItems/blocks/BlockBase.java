@@ -1,9 +1,9 @@
-package com.goldenagetycoon.questitems.blocks;
+package com.goldenagetycoon.economyItems.blocks;
 
-import com.goldenagetycoon.questitems.QuestItems;
-import com.goldenagetycoon.questitems.init.ModBlocks;
-import com.goldenagetycoon.questitems.init.ModItems;
-import com.goldenagetycoon.questitems.util.IHasModel;
+import com.goldenagetycoon.economyItems.EconomyItems;
+import com.goldenagetycoon.economyItems.init.ModBlocks;
+import com.goldenagetycoon.economyItems.init.ModItems;
+import com.goldenagetycoon.economyItems.util.IHasModel;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.Item;
@@ -16,7 +16,7 @@ public class BlockBase extends Block implements IHasModel {
         super(material);
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(QuestItems.tab);
+        setCreativeTab(EconomyItems.tab);
 
         ModBlocks.BLOCKS.add(this);
         ModItems.ITEMS.add(new ItemBlock(this).setRegistryName(name));
@@ -25,6 +25,6 @@ public class BlockBase extends Block implements IHasModel {
     @Override
     public void registerModels()
     {
-        QuestItems.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0);
+        EconomyItems.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0);
     }
 }

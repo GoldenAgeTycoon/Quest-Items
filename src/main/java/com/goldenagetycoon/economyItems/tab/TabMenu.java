@@ -1,7 +1,7 @@
-package com.goldenagetycoon.questitems.tab;
+package com.goldenagetycoon.economyItems.tab;
 
-import com.goldenagetycoon.questitems.init.ModFluids;
-import com.goldenagetycoon.questitems.init.ModItems;
+import com.goldenagetycoon.economyItems.init.ModFluids;
+import com.goldenagetycoon.economyItems.init.ModItems;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.NonNullList;

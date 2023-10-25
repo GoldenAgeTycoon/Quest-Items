@@ -1,7 +1,7 @@
-package com.goldenagetycoon.questitems.blocks;
+package com.goldenagetycoon.economyItems.blocks;
 
-import com.goldenagetycoon.questitems.init.ModBlocks;
-import com.goldenagetycoon.questitems.init.ModItems;
+import com.goldenagetycoon.economyItems.init.ModBlocks;
+import com.goldenagetycoon.economyItems.init.ModItems;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.ItemBlock;
 import net.minecraftforge.fluids.BlockFluidClassic;

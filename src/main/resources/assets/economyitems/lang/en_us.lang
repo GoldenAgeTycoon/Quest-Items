@@ -28,7 +28,7 @@ item.resource_paper.name=Resource - Paper
 item.resource_power_tools.name=Resource - Power Tools
 item.resource_scaffolding.name=Resource - Scaffolding
 item.resource_wheat.name=Resource - Wheat
-
+item.starting_token.name=Golden Token
 # letters
 item.letter_alarm.name=Letter
 item.letter_blank.name=Letter

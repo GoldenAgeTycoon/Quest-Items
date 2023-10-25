@@ -1,8 +1,8 @@
-package com.goldenagetycoon.questitems.blocks.slabs;
+package com.goldenagetycoon.economyItems.blocks.slabs;
 
-import com.goldenagetycoon.questitems.QuestItems;
-import com.goldenagetycoon.questitems.init.ModItems;
-import com.goldenagetycoon.questitems.util.IHasModel;
+import com.goldenagetycoon.economyItems.EconomyItems;
+import com.goldenagetycoon.economyItems.init.ModItems;
+import com.goldenagetycoon.economyItems.util.IHasModel;
 import net.minecraft.block.BlockSlab;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.Item;
@@ -25,6 +25,6 @@ public class BlockSlabHalfBase extends BlockSlabBase implements IHasModel {
     @Override
     public void registerModels()
     {
-        QuestItems.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0);
+        EconomyItems.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0);
     }
 }

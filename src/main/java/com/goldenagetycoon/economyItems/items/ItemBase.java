@@ -1,8 +1,8 @@
-package com.goldenagetycoon.questitems.items;
+package com.goldenagetycoon.economyItems.items;
 
-import com.goldenagetycoon.questitems.QuestItems;
-import com.goldenagetycoon.questitems.init.ModItems;
-import com.goldenagetycoon.questitems.util.IHasModel;
+import com.goldenagetycoon.economyItems.EconomyItems;
+import com.goldenagetycoon.economyItems.init.ModItems;
+import com.goldenagetycoon.economyItems.util.IHasModel;
 import net.minecraft.item.Item;
 
 public class ItemBase extends Item implements IHasModel
@@ -11,7 +11,7 @@ public class ItemBase extends Item implements IHasModel
     {
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(QuestItems.tab);
+        setCreativeTab(EconomyItems.tab);
 
         ModItems.ITEMS.add(this);
     }
@@ -19,6 +19,6 @@ public class ItemBase extends Item implements IHasModel
     @Override
     public void registerModels()
     {
-        QuestItems.proxy.registerItemRenderer(this, 0 );
+        EconomyItems.proxy.registerItemRenderer(this, 0 );
     }
 }

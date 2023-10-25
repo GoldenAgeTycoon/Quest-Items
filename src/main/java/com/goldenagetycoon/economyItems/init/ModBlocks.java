@@ -1,10 +1,10 @@
-package com.goldenagetycoon.questitems.init;
+package com.goldenagetycoon.economyItems.init;
 
-import com.goldenagetycoon.questitems.blocks.BlockBase;
-import com.goldenagetycoon.questitems.blocks.BlockFluid;
+import com.goldenagetycoon.economyItems.blocks.BlockBase;
+import com.goldenagetycoon.economyItems.blocks.BlockFluid;
 
-import com.goldenagetycoon.questitems.blocks.slabs.BlockSlabDoubleBase;
-import com.goldenagetycoon.questitems.blocks.slabs.BlockSlabHalfBase;
+import com.goldenagetycoon.economyItems.blocks.slabs.BlockSlabDoubleBase;
+import com.goldenagetycoon.economyItems.blocks.slabs.BlockSlabHalfBase;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockSlab;
 import net.minecraft.block.material.Material;

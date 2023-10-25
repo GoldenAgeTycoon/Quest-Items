@@ -13,9 +13,9 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.4'
-group = 'com.goldenagetycoon.questitems' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'questitems'
+version = '1.5'
+group = 'com.goldenagetycoon.economyItems' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'TGA-economyItems'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
@@ -85,7 +85,7 @@ dependencies {
 jar {
     manifest {
         attributes([
-            "Specification-Title": "questitems",
+            "Specification-Title": "economyItems",
             "Specification-Vendor": "agentv9",
             "Specification-Version": "1", // We are version 1 of ourselves
             "Implementation-Title": project.name,

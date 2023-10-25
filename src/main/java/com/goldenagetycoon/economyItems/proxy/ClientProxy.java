@@ -1,6 +1,6 @@
-package com.goldenagetycoon.questitems.proxy;
+package com.goldenagetycoon.economyItems.proxy;
 
-import com.goldenagetycoon.questitems.util.handlers.RenderHandler;
+import com.goldenagetycoon.economyItems.util.handlers.RenderHandler;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.model.ModelLoader;

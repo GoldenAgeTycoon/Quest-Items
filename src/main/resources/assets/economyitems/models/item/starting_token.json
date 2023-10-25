@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "economyitems:items/tutorialitem"
+        "layer0": "economyitems:items/starting_token"
      },
      
     "display": {
