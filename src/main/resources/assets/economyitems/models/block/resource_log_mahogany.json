@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "up": "economyItems:blocks/resource_log_mahogany_top",
+    "down": "economyItems:blocks/resource_log_mahogany_top",
+    "north": "economyItems:blocks/resource_log_mahogany",
+    "south": "economyItems:blocks/resource_log_mahogany",
+    "east": "economyItems:blocks/resource_log_mahogany",
+    "west": "economyItems:blocks/resource_log_mahogany"
+
+  }
+}

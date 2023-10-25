@@ -1,0 +1,69 @@
+# items
+item.test_item.name=Resource - Testing item
+item.resource_brick.name=Resource - Bricks
+item.resource_cake.name=Resource - Baked Goods
+item.resource_clay_ball.name=Resource - Clay
+item.resource_coal.name=Resource - Coal
+item.resource_iron_axe.name=Resource - Iron Axe
+item.resource_iron_ingot.name=Resource - Iron Ingot
+item.resource_iron_pickaxe.name=Resource - Pickaxe
+item.resource_iron_shovel.name=Resource - Shovel
+item.resource_steel_ingot.name=Resource - Steel Ingot
+item.resource_untempered_ingot.name=Resource - Untempered Steel Ingot
+item.resource_coffee_beans.name=Resource - Coffee Beans
+item.resource_limestone_dust.name=Resource - Limestone Dust
+item.resource_coalcoke.name=Resource - Coal Coke
+
+item.resource_sawblade.name=Resource - Saw Blade
+item.resource_circuit.name=Resource - Circuit
+item.resource_copper.name=Resource - Copper
+item.resource_fish.name=Resource - Fish
+item.resource_food.name=Resource - Food
+item.resource_furniture.name=Resource - Furniture
+item.resource_glass.name=Resource - Glass
+item.resource_leather.name=Resource - Leather
+item.resource_luxury_furniture.name=Resource - Luxury Furniture
+item.resource_metal_pipes.name=Resource - Metal Pipes
+item.resource_paper.name=Resource - Paper
+item.resource_power_tools.name=Resource - Power Tools
+item.resource_scaffolding.name=Resource - Scaffolding
+item.resource_wheat.name=Resource - Wheat
+
+# letters
+item.letter_alarm.name=Letter
+item.letter_blank.name=Letter
+item.letter_bloody.name=Letter
+item.letter_cash.name=Letter
+item.letter_clover.name=Letter
+item.letter_death.name=Letter
+item.letter_earth.name=Letter
+item.letter_ender.name=Letter
+item.letter_flag.name=Letter
+item.letter_fox.name=Letter
+item.letter_frog.name=Letter
+item.letter_ghost.name=Letter
+item.letter_love.name=Letter
+item.letter_modern.name=Letter
+item.letter_mushroom.name=Letter
+item.letter_pumpkin.name=Letter
+item.letter_rainbow.name=Letter
+item.letter_star.name=Letter
+item.letter_trident.name=Letter
+
+# Creative Tab
+itemGroup.customtab=TGA Economy Items
+
+# fluids
+fluid.test_fluid=test fluid
+fluid.resource_oil=Resource - Oil
+fluid.resource_fuel= Resource - Fuel
+fluid.resource_milk=Resource - Milk
+fluid.resource_alcohol=Resource - Alcohol
+
+# blocks
+tile.rail_tie_half.name=Resource - Rail tie
+tile.rail_tie_double.name=Resource - THICC Rail tie
+tile.resource_ballast.name=Resource - ballast
+tile.resource_log_oak.name=Resource - Oak Log
+tile.resource_log_mahogany.name=Resource - Mahogany Log
+tile.resource_limestone.name=Resource - Limestone

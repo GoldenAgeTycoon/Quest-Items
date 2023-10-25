@@ -1,0 +1,7 @@
+{
+  "variants":
+  {
+    "half=bottom,variant=default": { "model": "economyItems:rail_tie_bottom" },
+    "half=top,variant=default": { "model": "economyItems:rail_tie_top" }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "variant=default": { "model": "economyItems:rail_tie_double" }
+  }
+}

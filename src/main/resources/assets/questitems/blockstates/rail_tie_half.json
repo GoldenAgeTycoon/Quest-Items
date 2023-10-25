@@ -1,7 +1,0 @@
-{
-  "variants":
-  {
-    "half=bottom,variant=default": { "model": "questitems:rail_tie_bottom" },
-    "half=top,variant=default": { "model": "questitems:rail_tie_top" }
-  }
-}

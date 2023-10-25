@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures":
+  {
+    "bottom": "economyItems:blocks/resource_tie",
+    "top": "economyItems:blocks/resource_tie",
+    "side": "economyItems:blocks/resource_tie"
+  }
+}
